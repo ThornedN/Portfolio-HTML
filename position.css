@@ -1,0 +1,31 @@
+@media screen and (max-width: 1136px) {
+    p{
+        font-size: medium;
+        color: blue;
+
+
+    }
+}
+
+.element{
+
+    position: fixed;
+    right: 0;
+    top: 0;
+
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+form{
+    margin: auto;
+    size: 200px;
+}
