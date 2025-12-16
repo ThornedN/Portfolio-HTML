@@ -1,0 +1,134 @@
+html{
+
+    background:linear-gradient( rgb(73, 192, 81), rgb(21, 48, 31))
+
+}
+
+h1{
+
+    text-align:right;
+    text-align: center;
+    width: 1000px;
+    margin-left: 300px;
+    margin-top: 100px;  
+    color: aliceblue;
+    text-shadow: 6px 6px 15px black;
+
+}
+
+h1:hover{
+
+    color: azure;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.bbh-bartle-regular {
+  font-family: "BBH Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+}
+
+h2{
+
+    text-align: right;
+    font-size: 80px;
+    margin-right: 90px;
+    margin-bottom: 50px;
+    color: aliceblue;
+
+
+}
+
+
+
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight:normal;
+  font-style: normal;
+}
+
+.container1 {
+
+    color: aliceblue;
+    text-align: left;
+    margin-left: 520px;
+    font-size: 25px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: lighter;
+    font-style: italic;
+
+}
+
+.container2 {
+
+    margin-top: -1000px;    
+    background-attachment: fixed;
+    margin-left: -50px;
+    width: 550px;
+    height: 1100px;
+    size: 15em;
+    background-image:url(images/green.jpg);
+    background-size: 1000px;
+    opacity: 1;
+    
+}
+
+
+a:hover{
+
+    color: aqua;
+
+}
+
+a:active{
+
+    color: blueviolet;
+
+}
+
+.container1:hover{
+
+    opacity: .8;
+    text-decoration: underline;
+    font-size: large;
+
+}
+
+
+a{
+
+color: greenyellow;
+
+}
+
+h2:hover{
+
+    font-weight: bold;
+    opacity: .7;
+    text-decoration: underline;
+
+}
+
+.container3{
+
+    border-radius: 5px;
+    text-align: center;
+    width: 375px;
+    text-align: center;
+    margin-left: 430px;
+    margin-top: 50px;
+    font-size: x-large;
+
+
+}
+
+.sekuya-regular {
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
