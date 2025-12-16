@@ -94,8 +94,8 @@ a:active{
 .container1:hover{
 
     opacity: .8;
+    text-align:center;
     text-decoration: underline;
-    font-size: large;
 
 }
 
@@ -116,12 +116,11 @@ h2:hover{
 
 .container3{
 
-    border-radius: 5px;
     text-align: center;
     width: 375px;
     text-align: center;
-    margin-left: 430px;
-    margin-top: 50px;
+    margin-left: 600px;
+    margin-top: -80px;
     font-size: x-large;
 
 
